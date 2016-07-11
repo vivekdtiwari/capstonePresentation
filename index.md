@@ -63,7 +63,7 @@ knit        : slidify::knit2slides
 - Thanks to everyone on Coursera forums who helped out when stuck with initial data-exploration issues.
 
 [1]: https://github.com/vivekdtiwari/capstoneSuccess "Github"
-[2]: http://vivekdtiwari.shinyapps.io/TheNextWord/ "MyAwesomeWordPredictor"
+[2]: https://vivekdtiwari.shinyapps.io/MyAwesomeWordPredictor "MyAwesomeWordPredictor"
 [3]: http://www.corpora.heliohost.org/ "HC Corpora"
 [4]: http://www.corpora.heliohost.org/aboutcorpus.html "ReadMe"
 
